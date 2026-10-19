@@ -17,6 +17,7 @@ offline with its tests and no keys, and its README says what I learned building 
 | [email-send-gate](https://github.com/shinabaze/email-send-gate) | One Postgres function every email asks before it goes out: unsubscribes, bounces, cooldowns, no sales emails to paying customers. SQL |
 | [agent-tools](https://github.com/shinabaze/agent-tools) | Small tools I give my coding agents: diagrams from JSON, editable decks, contrast and real-phone page checks, git hooks that keep every commit mine. JavaScript, Python |
 | [polite-web-reader](https://github.com/shinabaze/polite-web-reader) | Reads web pages politely: robots.txt on every hop, one request at a time per host, a revalidating cache, and a bot check reported as blocked, not read as content. Python |
+| [media-sorter](https://github.com/shinabaze/media-sorter) | Tidies a folder of renders and downloads by type and date, finds duplicates by content, plans before it moves, keeps an undo log, never deletes. Python |
 
 **What I work on**
 

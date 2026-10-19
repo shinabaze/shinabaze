@@ -12,6 +12,7 @@ offline with its tests and no keys, and its README says what I learned building 
 | [llm-inbox-agent](https://github.com/shinabaze/llm-inbox-agent) | An email agent whose safety rules live in code, with an eval that always shows the baseline. Python |
 | [resilient-rpc](https://github.com/shinabaze/resilient-rpc) | A JSON-RPC endpoint pool that bans each endpoint for as long as its error says, and keeps paid capacity for the calls that matter. JavaScript |
 | [v3-ring-sizer](https://github.com/shinabaze/v3-ring-sizer) | A quoter for Uniswap V3 style pools that is exact or refuses, and a search for the trade size that earns the most. JavaScript |
+| [claim-receipts](https://github.com/shinabaze/claim-receipts) | Checks that a source page really says the statistic you quote, and screenshots the passage with the number marked. Python |
 | [keyframe-forensics](https://github.com/shinabaze/keyframe-forensics) | Measure how a video is cut and animated with ffmpeg alone: shot rhythm, holds on ones and twos, motion, sync. JavaScript |
 | [email-send-gate](https://github.com/shinabaze/email-send-gate) | One Postgres function every email asks before it goes out: unsubscribes, bounces, cooldowns, no sales emails to paying customers. SQL |
 

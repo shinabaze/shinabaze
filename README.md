@@ -15,6 +15,7 @@ offline with its tests and no keys, and its README says what I learned building 
 | [claim-receipts](https://github.com/shinabaze/claim-receipts) | Checks that a source page really says the statistic you quote, and screenshots the passage with the number marked. Python |
 | [keyframe-forensics](https://github.com/shinabaze/keyframe-forensics) | Measure how a video is cut and animated with ffmpeg alone: shot rhythm, holds on ones and twos, motion, sync. JavaScript |
 | [email-send-gate](https://github.com/shinabaze/email-send-gate) | One Postgres function every email asks before it goes out: unsubscribes, bounces, cooldowns, no sales emails to paying customers. SQL |
+| [agent-tools](https://github.com/shinabaze/agent-tools) | Small tools I give my coding agents: diagrams from JSON, editable decks, contrast and real-phone page checks, git hooks that keep every commit mine. JavaScript, Python |
 
 **What I work on**
 
